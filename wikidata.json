@@ -1,0 +1,408 @@
+[
+  {
+    "item": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "statement": "Q93557$F763A929-279B-415A-9F61-7F00CAD58943"
+  },
+  {
+    "item": {
+      "value": "Q2580034",
+      "label": "William Monsell, 1st Baron Emly"
+    },
+    "statement": "Q2580034$A1B049E6-00BC-4661-B840-31285EED42BC"
+  },
+  {
+    "item": {
+      "value": "Q2568971",
+      "label": "Benjamin Hall, 1st Baron Llanover"
+    },
+    "replacedBy": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "statement": "Q2568971$DA22603C-36D9-4EE4-B55F-B6349A806AC5",
+    "start": "1854-10-14T00:00:00Z",
+    "end": "1855-08-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334088",
+      "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "replacedBy": {
+      "value": "Q333591",
+      "label": "Alfred Mond, 1st Baron Melchett"
+    },
+    "statement": "Q334088$35EDB146-34C1-4836-BE5C-076357A8AB55",
+    "start": "1919-06-24T00:00:00Z",
+    "end": "1921-04-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333591",
+      "label": "Alfred Mond, 1st Baron Melchett"
+    },
+    "replaces": {
+      "value": "Q334088",
+      "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "replacedBy": {
+      "value": "Q4798898",
+      "label": "Arthur Griffith-Boscawen"
+    },
+    "statement": "Q333591$5341DA75-792B-4E36-B86D-6A44A17B12AE",
+    "start": "1921-04-01T00:00:00Z",
+    "end": "1922-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "replaces": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replacedBy": {
+      "value": "Q766908",
+      "label": "John Wheatley"
+    },
+    "statement": "Q330604$CF4C8888-5D97-41B2-BBC1-E53EF39A7DA4",
+    "start": "1923-08-27T00:00:00Z",
+    "end": "1924-01-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replaces": {
+      "value": "Q333174",
+      "label": "Arthur Greenwood"
+    },
+    "replacedBy": {
+      "value": "Q9292296",
+      "label": "Hilton Young, 1st Baron Kennet"
+    },
+    "statement": "Q10664$5178AFD7-3EDA-4FD0-8185-E1AE822E4959",
+    "start": "1931-08-25T00:00:00Z",
+    "end": "1931-11-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2518614",
+      "label": "Kingsley Wood"
+    },
+    "replaces": {
+      "value": "Q9292296",
+      "label": "Hilton Young, 1st Baron Kennet"
+    },
+    "replacedBy": {
+      "value": "Q7964761",
+      "label": "Walter Elliot"
+    },
+    "statement": "Q2518614$6CE41680-52AF-4F12-8095-441C6E63119E",
+    "start": "1935-06-07T00:00:00Z",
+    "end": "1938-05-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
+    },
+    "replaces": {
+      "value": "Q7527226",
+      "label": "Sir Henry Willink, 1st Baronet"
+    },
+    "replacedBy": {
+      "value": "Q1618119",
+      "label": "Hilary Marquand"
+    },
+    "statement": "Q325403$448B313D-3658-43CB-80B4-8A3FB2619714",
+    "start": "1945-08-03T00:00:00Z",
+    "end": "1951-01-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333182",
+      "label": "Iain Macleod"
+    },
+    "replaces": {
+      "value": "Q333345",
+      "label": "Harry Crookshank, 1st Viscount Crookshank"
+    },
+    "replacedBy": {
+      "value": "Q7352835",
+      "label": "Robin Turton, Baron Tranmire"
+    },
+    "statement": "Q333182$80159644-C4DB-4D35-B3F8-18794A9672A5",
+    "start": "1952-05-07T00:00:00Z",
+    "end": "1955-12-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "replaces": {
+      "value": "Q5262429",
+      "label": "Derek Walker-Smith, Baron Broxbourne"
+    },
+    "replacedBy": {
+      "value": "Q333193",
+      "label": "Anthony Barber"
+    },
+    "statement": "Q333028$21D74712-E21E-48CD-AF02-3905599E2847",
+    "start": "1960-07-27T00:00:00Z",
+    "end": "1963-10-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333193",
+      "label": "Anthony Barber"
+    },
+    "replaces": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "replacedBy": {
+      "value": "Q6390638",
+      "label": "Kenneth Robinson"
+    },
+    "statement": "Q333193$4690016F-F5CD-42C7-9BF5-195DD74CFA0F",
+    "start": "1963-10-20T00:00:00Z",
+    "end": "1964-10-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "replaces": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "replacedBy": {
+      "value": "Q332864",
+      "label": "William Waldegrave, Baron Waldegrave of North Hill"
+    },
+    "statement": "Q271889$d7512637-4f7e-1687-3f44-db0c652f9ce2",
+    "start": "1988-07-25T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333537",
+      "label": "David Mellor"
+    },
+    "replaces": {
+      "value": "Q333068",
+      "label": "Tony Newton, Baron Newton of Braintree"
+    },
+    "replacedBy": {
+      "value": "Q4773597",
+      "label": "Anthony Trafford, Baron Trafford"
+    },
+    "statement": "Q333537$5E193D11-470B-4F44-B43A-04CA5F909F8F",
+    "start": "1988-07-25T00:00:00Z",
+    "end": "1989-10-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332864",
+      "label": "William Waldegrave, Baron Waldegrave of North Hill"
+    },
+    "replaces": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "replacedBy": {
+      "value": "Q332696",
+      "label": "Virginia Bottomley"
+    },
+    "statement": "Q332864$8AF95D78-F691-40D3-A491-D7E47E8E594B",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1992-04-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332696",
+      "label": "Virginia Bottomley"
+    },
+    "replaces": {
+      "value": "Q332864",
+      "label": "William Waldegrave, Baron Waldegrave of North Hill"
+    },
+    "replacedBy": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "statement": "Q332696$60FAFADD-76C9-45CC-9016-92776EF57BF9",
+    "start": "1992-04-09T00:00:00Z",
+    "end": "1995-07-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333410",
+      "label": "Brian Mawhinney, Baron Mawhinney"
+    },
+    "replaces": {
+      "value": "Q332696",
+      "label": "Virginia Bottomley"
+    },
+    "replacedBy": {
+      "value": "Q5552860",
+      "label": "Gerry Malone"
+    },
+    "statement": "Q333410$63F623CC-A94E-4BBD-8EF7-25DA2007A7E0",
+    "start": "1992-04-14T00:00:00Z",
+    "end": "1994-07-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "replaces": {
+      "value": "Q332696",
+      "label": "Virginia Bottomley"
+    },
+    "replacedBy": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "statement": "Q300349$3C82CF6A-68B1-488F-A69C-96D4894EB2A8",
+    "start": "1995-07-05T00:00:00Z",
+    "end": "1997-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replaces": {
+      "value": "Q300349",
+      "label": "Stephen Dorrell"
+    },
+    "replacedBy": {
+      "value": "Q333459",
+      "label": "Alan Milburn"
+    },
+    "statement": "Q300182$B2FEE5C3-B5C6-4CC6-B865-FE3E584F67EE",
+    "start": "1997-05-02T00:00:00Z",
+    "end": "1999-10-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333459",
+      "label": "Alan Milburn"
+    },
+    "replaces": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replacedBy": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "statement": "Q333459$8984214B-5A75-4E13-B2C4-F9E1662ABB47",
+    "start": "1999-10-11T00:00:00Z",
+    "end": "2003-06-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "replaces": {
+      "value": "Q333459",
+      "label": "Alan Milburn"
+    },
+    "replacedBy": {
+      "value": "Q332799",
+      "label": "Patricia Hewitt"
+    },
+    "statement": "Q333461$D268B5A4-8580-45CA-A61E-4AEACA486CCF",
+    "start": "2003-06-13T00:00:00Z",
+    "end": "2005-05-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332799",
+      "label": "Patricia Hewitt"
+    },
+    "replaces": {
+      "value": "Q333461",
+      "label": "John Reid, Baron Reid of Cardowan"
+    },
+    "replacedBy": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "statement": "Q332799$4CB1EC96-0623-4F41-977C-8095B3D057F5",
+    "start": "2005-05-05T00:00:00Z",
+    "end": "2007-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "replaces": {
+      "value": "Q332799",
+      "label": "Patricia Hewitt"
+    },
+    "replacedBy": {
+      "value": "Q269909",
+      "label": "Andy Burnham"
+    },
+    "statement": "Q332336$012F2EF9-AD68-4B46-8E69-14DB47CC93DB",
+    "start": "2007-06-28T00:00:00Z",
+    "end": "2009-06-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q269909",
+      "label": "Andy Burnham"
+    },
+    "replaces": {
+      "value": "Q332336",
+      "label": "Alan Johnson"
+    },
+    "replacedBy": {
+      "value": "Q333276",
+      "label": "Andrew Lansley"
+    },
+    "statement": "Q269909$E6D62097-DC06-4AEF-A2AB-BEC49C95A7AB",
+    "start": "2009-06-05T00:00:00Z",
+    "end": "2010-05-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333276",
+      "label": "Andrew Lansley"
+    },
+    "replaces": {
+      "value": "Q269909",
+      "label": "Andy Burnham"
+    },
+    "replacedBy": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "statement": "Q333276$cc922f0a-4d1d-5a71-d652-0c49226bbaf8",
+    "start": "2010-05-12T00:00:00Z",
+    "end": "2012-09-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "statement": "Q333533$F6FC18A0-B7D1-4CD7-8020-02EEDFC4D8EF",
+    "start": "2012-09-04T00:00:00Z",
+    "end": "2018-01-08T00:00:00Z"
+  }
+]
