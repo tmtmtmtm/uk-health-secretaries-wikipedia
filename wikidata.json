@@ -1,22 +1,92 @@
 [
   {
     "item": {
-      "value": "Q93557",
-      "label": "John Moore, Baron Moore of Lower Marsh"
+      "value": "Q2079517",
+      "label": "George Howard, 7th Earl of Carlisle"
     },
-    "statement": "Q93557$F763A929-279B-415A-9F61-7F00CAD58943"
+    "replacedBy": {
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
+    },
+    "statement": "Q2079517$70CABC64-DCE7-4A04-A92C-3E7A851544A1",
+    "end": "1849-04-17T00:00:00Z"
   },
   {
     "item": {
-      "value": "Q2580034",
-      "label": "William Monsell, 1st Baron Emly"
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
     },
-    "statement": "Q2580034$A1B049E6-00BC-4661-B840-31285EED42BC"
+    "replaces": {
+      "value": "Q2079517",
+      "label": "George Howard, 7th Earl of Carlisle"
+    },
+    "replacedBy": {
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
+    },
+    "statement": "Q3719921$B0876A92-5374-4104-A8F8-7B8A569BC0C3",
+    "start": "1849-04-17T00:00:00Z",
+    "end": "1851-08-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
+    },
+    "replaces": {
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
+    },
+    "replacedBy": {
+      "value": "Q2086683",
+      "label": "John Manners, 7th Duke of Rutland"
+    },
+    "statement": "Q3719921$348C861C-051D-47B5-9E0C-9F786978D4F8",
+    "start": "1851-08-01T00:00:00Z",
+    "end": "1852-02-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2086683",
+      "label": "John Manners, 7th Duke of Rutland"
+    },
+    "replaces": {
+      "value": "Q3719921",
+      "label": "Edward Seymour, 12th Duke of Somerset"
+    },
+    "replacedBy": {
+      "value": "Q5991023",
+      "label": "Sir William Molesworth, 8th Baronet"
+    },
+    "statement": "Q2086683$9C88AD88-AD97-4041-A072-FC6ECE293BCC",
+    "start": "1852-03-04T00:00:00Z",
+    "end": "1852-12-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5991023",
+      "label": "Sir William Molesworth, 8th Baronet"
+    },
+    "replaces": {
+      "value": "Q2086683",
+      "label": "John Manners, 7th Duke of Rutland"
+    },
+    "replacedBy": {
+      "value": "Q2568971",
+      "label": "Benjamin Hall, 1st Baron Llanover"
+    },
+    "statement": "Q5991023$2D53CDF0-C6D8-47FB-A94B-4D229E377B51",
+    "start": "1853-01-05T00:00:00Z",
+    "end": "1854-10-14T00:00:00Z"
   },
   {
     "item": {
       "value": "Q2568971",
       "label": "Benjamin Hall, 1st Baron Llanover"
+    },
+    "replaces": {
+      "value": "Q5991023",
+      "label": "Sir William Molesworth, 8th Baronet"
     },
     "replacedBy": {
       "value": "Q8007204",
@@ -28,8 +98,80 @@
   },
   {
     "item": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "replaces": {
+      "value": "Q2568971",
+      "label": "Benjamin Hall, 1st Baron Llanover"
+    },
+    "replacedBy": {
+      "value": "Q2580034",
+      "label": "William Monsell, 1st Baron Emly"
+    },
+    "statement": "Q8007204$3C188131-1F0B-46F6-891A-61E66D3B749A",
+    "start": "1855-08-13T00:00:00Z",
+    "end": "1857-02-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2580034",
+      "label": "William Monsell, 1st Baron Emly"
+    },
+    "replaces": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "replacedBy": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "statement": "Q2580034$A1B049E6-00BC-4661-B840-31285EED42BC",
+    "start": "1857-02-09T00:00:00Z",
+    "end": "1857-09-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "replaces": {
+      "value": "Q2580034",
+      "label": "William Monsell, 1st Baron Emly"
+    },
+    "replacedBy": {
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
+    },
+    "statement": "Q8007204$FAE839D6-9C52-495A-B9C8-21A84896E331",
+    "start": "1857-09-24T00:00:00Z",
+    "end": "1858-02-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
+    },
+    "replaces": {
+      "value": "Q8007204",
+      "label": "William Cowper-Temple, 1st Baron Mount Temple"
+    },
+    "replacedBy": {
       "value": "Q334088",
       "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "statement": "Q338354$99F6B92E-EBBB-4BDA-9595-4E5004E65B17",
+    "start": "1858-03-08T00:00:00Z",
+    "end": "1858-09-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334088",
+      "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "replaces": {
+      "value": "Q338354",
+      "label": "Charles Adderley, 1st Baron Norton"
     },
     "replacedBy": {
       "value": "Q333591",
@@ -58,6 +200,40 @@
   },
   {
     "item": {
+      "value": "Q4798898",
+      "label": "Arthur Griffith-Boscawen"
+    },
+    "replaces": {
+      "value": "Q333591",
+      "label": "Alfred Mond, 1st Baron Melchett"
+    },
+    "replacedBy": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "statement": "Q4798898$9DABEFB9-17B3-4172-9F41-8249003BAC54",
+    "start": "1922-10-24T00:00:00Z",
+    "end": "1923-03-07T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replaces": {
+      "value": "Q4798898",
+      "label": "Arthur Griffith-Boscawen"
+    },
+    "replacedBy": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "statement": "Q10664$E23A33E8-30FD-4479-94BB-457CAC30F082",
+    "start": "1923-03-07T00:00:00Z",
+    "end": "1923-08-27T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q330604",
       "label": "William Joynson-Hicks, 1st Viscount Brentford"
     },
@@ -72,6 +248,57 @@
     "statement": "Q330604$CF4C8888-5D97-41B2-BBC1-E53EF39A7DA4",
     "start": "1923-08-27T00:00:00Z",
     "end": "1924-01-22T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q766908",
+      "label": "John Wheatley"
+    },
+    "replaces": {
+      "value": "Q330604",
+      "label": "William Joynson-Hicks, 1st Viscount Brentford"
+    },
+    "replacedBy": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "statement": "Q766908$A5C1A21E-83C6-457F-86FC-A669C03BB845",
+    "start": "1924-01-22T00:00:00Z",
+    "end": "1924-11-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replaces": {
+      "value": "Q766908",
+      "label": "John Wheatley"
+    },
+    "replacedBy": {
+      "value": "Q333174",
+      "label": "Arthur Greenwood"
+    },
+    "statement": "Q10664$F044B932-36B0-4F29-8A7F-5957FA1CDDB6",
+    "start": "1924-11-06T00:00:00Z",
+    "end": "1929-06-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333174",
+      "label": "Arthur Greenwood"
+    },
+    "replaces": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replacedBy": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "statement": "Q333174$647DC91A-8922-45BD-B437-8AEA1B373407",
+    "start": "1929-06-07T00:00:00Z",
+    "end": "1931-08-24T00:00:00Z"
   },
   {
     "item": {
@@ -92,6 +319,23 @@
   },
   {
     "item": {
+      "value": "Q9292296",
+      "label": "Hilton Young, 1st Baron Kennet"
+    },
+    "replaces": {
+      "value": "Q10664",
+      "label": "Neville Chamberlain"
+    },
+    "replacedBy": {
+      "value": "Q2518614",
+      "label": "Kingsley Wood"
+    },
+    "statement": "Q9292296$D6131D8F-AA66-45E5-B58B-1C39BACCF78A",
+    "start": "1931-11-05T00:00:00Z",
+    "end": "1935-06-07T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q2518614",
       "label": "Kingsley Wood"
     },
@@ -106,6 +350,74 @@
     "statement": "Q2518614$6CE41680-52AF-4F12-8095-441C6E63119E",
     "start": "1935-06-07T00:00:00Z",
     "end": "1938-05-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7964761",
+      "label": "Walter Elliot"
+    },
+    "replaces": {
+      "value": "Q2518614",
+      "label": "Kingsley Wood"
+    },
+    "replacedBy": {
+      "value": "Q333507",
+      "label": "Malcolm MacDonald"
+    },
+    "statement": "Q7964761$993D18E9-85EC-4422-86BA-C8BAC5DAD875",
+    "start": "1938-05-16T00:00:00Z",
+    "end": "1940-05-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333507",
+      "label": "Malcolm MacDonald"
+    },
+    "replaces": {
+      "value": "Q7964761",
+      "label": "Walter Elliot"
+    },
+    "replacedBy": {
+      "value": "Q5392836",
+      "label": "Ernest Brown"
+    },
+    "statement": "Q333507$93D42DEC-7B09-4731-A5EB-FCFBD11BF35C",
+    "start": "1940-05-13T00:00:00Z",
+    "end": "1941-02-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5392836",
+      "label": "Ernest Brown"
+    },
+    "replaces": {
+      "value": "Q333507",
+      "label": "Malcolm MacDonald"
+    },
+    "replacedBy": {
+      "value": "Q7527226",
+      "label": "Sir Henry Willink, 1st Baronet"
+    },
+    "statement": "Q5392836$05632420-9BC8-4A64-A9EC-51C0011B4944",
+    "start": "1941-02-08T00:00:00Z",
+    "end": "1943-11-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7527226",
+      "label": "Sir Henry Willink, 1st Baronet"
+    },
+    "replaces": {
+      "value": "Q5392836",
+      "label": "Ernest Brown"
+    },
+    "replacedBy": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
+    },
+    "statement": "Q7527226$20ACA7FE-07E2-4414-8A58-C76FE3EA457F",
+    "start": "1943-11-11T00:00:00Z",
+    "end": "1945-07-26T00:00:00Z"
   },
   {
     "item": {
@@ -126,6 +438,40 @@
   },
   {
     "item": {
+      "value": "Q1618119",
+      "label": "Hilary Marquand"
+    },
+    "replaces": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
+    },
+    "replacedBy": {
+      "value": "Q333345",
+      "label": "Harry Crookshank, 1st Viscount Crookshank"
+    },
+    "statement": "Q1618119$3B058D66-50A6-4347-B036-8E714CA81758",
+    "start": "1951-01-17T00:00:00Z",
+    "end": "1951-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333345",
+      "label": "Harry Crookshank, 1st Viscount Crookshank"
+    },
+    "replaces": {
+      "value": "Q1618119",
+      "label": "Hilary Marquand"
+    },
+    "replacedBy": {
+      "value": "Q333182",
+      "label": "Iain Macleod"
+    },
+    "statement": "Q333345$892605DD-2DE9-45EA-AC22-8AC049D2AEEC",
+    "start": "1951-10-30T00:00:00Z",
+    "end": "1952-05-07T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333182",
       "label": "Iain Macleod"
     },
@@ -140,6 +486,57 @@
     "statement": "Q333182$80159644-C4DB-4D35-B3F8-18794A9672A5",
     "start": "1952-05-07T00:00:00Z",
     "end": "1955-12-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7352835",
+      "label": "Robin Turton, Baron Tranmire"
+    },
+    "replaces": {
+      "value": "Q333182",
+      "label": "Iain Macleod"
+    },
+    "replacedBy": {
+      "value": "Q5259036",
+      "label": "Dennis Vosper, Baron Runcorn"
+    },
+    "statement": "Q7352835$B5DA44FE-315C-42D0-BF7A-BC00809C1540",
+    "start": "1955-12-20T00:00:00Z",
+    "end": "1957-01-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5259036",
+      "label": "Dennis Vosper, Baron Runcorn"
+    },
+    "replaces": {
+      "value": "Q7352835",
+      "label": "Robin Turton, Baron Tranmire"
+    },
+    "replacedBy": {
+      "value": "Q5262429",
+      "label": "Derek Walker-Smith, Baron Broxbourne"
+    },
+    "statement": "Q5259036$32F0830C-24A7-4F54-BAED-8A0A42E2644D",
+    "start": "1957-01-16T00:00:00Z",
+    "end": "1957-09-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5262429",
+      "label": "Derek Walker-Smith, Baron Broxbourne"
+    },
+    "replaces": {
+      "value": "Q5259036",
+      "label": "Dennis Vosper, Baron Runcorn"
+    },
+    "replacedBy": {
+      "value": "Q333028",
+      "label": "Enoch Powell"
+    },
+    "statement": "Q5262429$872DFF18-7D6B-4705-8087-82A55C71A538",
+    "start": "1957-09-17T00:00:00Z",
+    "end": "1960-07-27T00:00:00Z"
   },
   {
     "item": {
@@ -174,6 +571,142 @@
     "statement": "Q333193$4690016F-F5CD-42C7-9BF5-195DD74CFA0F",
     "start": "1963-10-20T00:00:00Z",
     "end": "1964-10-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6390638",
+      "label": "Kenneth Robinson"
+    },
+    "replaces": {
+      "value": "Q333193",
+      "label": "Anthony Barber"
+    },
+    "replacedBy": {
+      "value": "Q328681",
+      "label": "Richard Crossman"
+    },
+    "statement": "Q6390638$44531AF0-1A79-4BE0-8F03-E3368339CDC3",
+    "start": "1964-10-18T00:00:00Z",
+    "end": "1968-11-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q328681",
+      "label": "Richard Crossman"
+    },
+    "replaces": {
+      "value": "Q6390638",
+      "label": "Kenneth Robinson"
+    },
+    "replacedBy": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "statement": "Q328681$7D71BDBE-AFDE-41E9-9CFC-6E8524E6EC97",
+    "start": "1968-11-01T00:00:00Z",
+    "end": "1970-06-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "replaces": {
+      "value": "Q328681",
+      "label": "Richard Crossman"
+    },
+    "replacedBy": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "statement": "Q333694$06C3C8F6-D0D3-435E-8EC5-DF93EC53F2A7",
+    "start": "1970-06-20T00:00:00Z",
+    "end": "1974-03-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replaces": {
+      "value": "Q333694",
+      "label": "Keith Joseph"
+    },
+    "replacedBy": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "statement": "Q2883936$DCB54903-9BA6-4303-8316-84FEF594A75F",
+    "start": "1974-03-05T00:00:00Z",
+    "end": "1976-04-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "replaces": {
+      "value": "Q2883936",
+      "label": "Barbara Castle, Baroness Castle of Blackburn"
+    },
+    "replacedBy": {
+      "value": "Q24082",
+      "label": "Patrick Jenkin"
+    },
+    "statement": "Q5233398$92201846-5147-4FDF-956C-884AD192A622",
+    "start": "1976-04-08T00:00:00Z",
+    "end": "1979-05-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q24082",
+      "label": "Patrick Jenkin"
+    },
+    "replaces": {
+      "value": "Q5233398",
+      "label": "David Ennals, Baron Ennals"
+    },
+    "replacedBy": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "statement": "Q24082$58B54A54-4D45-45CF-A705-51ED8B57AEB1",
+    "start": "1979-05-05T00:00:00Z",
+    "end": "1981-09-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "replaces": {
+      "value": "Q24082",
+      "label": "Patrick Jenkin"
+    },
+    "replacedBy": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "statement": "Q332919$3B973E41-7E2B-4188-B7F7-C9C8C5D6D6C2",
+    "start": "1981-09-14T00:00:00Z",
+    "end": "1987-06-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q93557",
+      "label": "John Moore, Baron Moore of Lower Marsh"
+    },
+    "replaces": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "replacedBy": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "statement": "Q93557$F763A929-279B-415A-9F61-7F00CAD58943",
+    "start": "1987-06-13T00:00:00Z",
+    "end": "1988-07-25T00:00:00Z"
   },
   {
     "item": {
@@ -401,8 +934,45 @@
       "value": "Q333533",
       "label": "Jeremy Hunt"
     },
+    "replaces": {
+      "value": "Q333276",
+      "label": "Andrew Lansley"
+    },
+    "replacedBy": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
     "statement": "Q333533$F6FC18A0-B7D1-4CD7-8020-02EEDFC4D8EF",
     "start": "2012-09-04T00:00:00Z",
     "end": "2018-01-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "replaces": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "replacedBy": {
+      "value": "Q478161",
+      "label": "Matt Hancock"
+    },
+    "statement": "Q333533$CE58C42A-EA21-48D7-AA6A-6E38F7B06A84",
+    "start": "2018-01-08T00:00:00Z",
+    "end": "2018-07-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q478161",
+      "label": "Matt Hancock"
+    },
+    "replaces": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "statement": "Q478161$F1C31904-A4B5-4CB0-9AD1-7C3DAF575E5B",
+    "start": "2018-07-09T00:00:00Z"
   }
 ]
