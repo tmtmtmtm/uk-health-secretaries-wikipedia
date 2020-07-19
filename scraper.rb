@@ -37,13 +37,13 @@ class HolderItem < Scraped::HTML
   end
 
   field :start_date do
-    Date.parse(start_text) if start_text[/\d{4}/] rescue binding.pry
+    Date.parse(start_text) if start_text[/\d+ \w+ \d{4}/]
   end
 
   field :end_date do
     return if end_text == 'Incumbent'
 
-    Date.parse(end_text) if end_text[/\d{4}/]
+    Date.parse(end_text) if end_text[/\d+ \w+ \d{4}/]
   end
 
   field :replaces do
@@ -70,27 +70,16 @@ class HolderItem < Scraped::HTML
     end_date_cell.text.tidy
   end
 
-  def table_headings
-    # don't cache, as there may be multiple tables with different layouts
-    noko.xpath('ancestor::table//tr[.//th][1]//th').map(&:text).map(&:tidy)
-  end
-
-  def columns_headed(str)
-    table_headings.each_with_index.select do |heading, index|
-      heading.downcase.include?(str.downcase)
-    end.map(&:last)
-  end
-
   def name_cell
-    tds[columns_headed('Name').last || columns_headed('Transport').last]
+    tds[1]
   end
 
   def start_date_cell
-    tds[columns_headed('Term of Office').first]
+    tds[3]
   end
 
   def end_date_cell
-    tds[columns_headed('Term of Office').last]
+    tds[4]
   end
 end
 
